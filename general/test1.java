@@ -26,5 +26,8 @@ test1 o = new test1();
 test1 o2 = new test1();
 test1 o3 = new test1();
 o3.m1();
+
+
+
 }
 }

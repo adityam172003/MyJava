@@ -1,0 +1,183 @@
+
+
+[][] Java basice 
+
+] What is Java  ?? 
+
+] What is difference between JDK ,JRE and JVM 
+
+] Explain main features of JAVA 
+
+] How does java achieve platform independence 
+
+] what are the native methods in java 
+
+] what is jar file 
+
+] what is war file
+-------------------------------------------------------------------
+
+] what is hashCode method in java 
+
+] Explain final keyword in java 
+
+] what is the purpose of assert keyword in java 
+--------------------------------------------------------------------
+
+] what are the java annotations and what are their uses ?
+
+
+
+[][] Equals and == in java 
+
+] what is difference between == and equals in java 
+
+
+
+
+=====================================================================================================
+=====================================================================================================
+
+[] [] Wrapper classes in java 
+
+] what is autoBoxing and un-Boxing in java 
+
+
+======================================================================================================
+======================================================================================================
+
+[][] Java OOP
+
+] What is constructor and why it is used in java 
+
+] What is this keyword in java 
+
+] What is a static method and when is it used?
+
+] Explain method overriding and overloading in java 
+
+] Explain about super keyword in java 
+
+] explain finalize() method in java 
+
+
+] what is difference between Abstract class and Interface 
+
+
+=====================================================================================================
+=====================================================================================================
+
+
+[][] Exception Handling 
+
+] Explain try-catch-finally block in java exception handling 
+
+] Which class is root class of Exception handling family 
+
+] what is difference in checked and unchecked Exceptions in java 
+
+] What is purpose of finally block in exception handling in java 
+
+] what is try-with-resourse statement in java and how they are used >
+------------------------------------------------------------------------------------------------
+
+
+
+
+===================================================================================================
+===================================================================================================
+
+[][] Multi Threading in java 
+
+] what are the various types to create the thread 
+] which approach is best to define the thread and why 
+
+] explain memory model in java 
+
+] how many ways we can prevent execution of thread 
+
+] what is purpose of yield method 
+
+] what is difference between sleep , join and yield method in java multithreading 
+
+] which exception is thrown by join method 
+
+] when should we use synchronized key word  
+
+] what is class level lock and when it is used 
+
+] what is race condition 
+
+] what is difference between object level lock and class level lock 
+
+] Does the thread priority insures that hight priority threads will execute first ?? 
+
+] how does java handles multiple threads and what are the potential issue with multithreading in java 
+
+] What is the 'thread-safe' concept in Java, and how can you make a class thread-safe 
+
+] what is synchronization in java and how is it achieved 
+
+] Explaint volatile key word in java 
+
+] Explaint wait and notify methods in java for thread synchronization 
+
+
+=====================================================================================================
+=====================================================================================================
+
+	
+[][] Collection framework 
+
+
+] what is java collection framework and what is use ?
+
+] Explain difference betweeen arrayList and LinkedList 
+
+
+=====================================================================================================
+=====================================================================================================
+
+
+
+[][] Object class 
+
+
+
+
+=====================================================================================================
+=====================================================================================================
+
+
+[][] enum 
+
+] describe enum type in java and its advantages 
+
+
+
+
+=====================================================================================================
+=====================================================================================================
+
+
+
+[][] JAVA Memory Model 
+----------------------------------
+
+] what is java memory model and how does it relate to multithreading 
+
+] what is garbage collection in java and how does it work 
+
+
+=====================================================================================================
+=====================================================================================================
+
+[][] Java 8 features 
+
+] How does java support functional programming and what is lambda expression in java 
+
+] What is Stream api in java and how is it used for data manipulation 
+
+] what is Optional class in java 
+
+

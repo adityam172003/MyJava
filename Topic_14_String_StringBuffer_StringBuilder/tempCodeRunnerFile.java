@@ -1,0 +1,1 @@
+ equal method in StringBuffer class is not override from Object cla

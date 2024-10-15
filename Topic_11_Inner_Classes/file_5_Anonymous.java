@@ -1,0 +1,30 @@
+// anonymous classes 
+class Movie
+{
+	public void watching()
+	{
+		System.out.println("Watching KGF-CHAPTER 2 MOVIE");
+	}	
+}
+
+
+class Program
+{
+	public static void main(String[] args)
+	{
+		Movie st1,st2,st3;
+		st1 = new Movie();
+		st3 = new Movie();
+		st2 = new Movie()
+		{
+			public void watching()
+			{
+				System.out.println("Watching GEETA_GOVINDAM MOVIE");
+	        }		
+		};  // <----
+		System.out.println(st2);
+		st1.watching();
+		st2.watching();
+		st3.watching();	
+	}
+}

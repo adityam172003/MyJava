@@ -1,0 +1,34 @@
+
+class Mythread implements Runnable
+{
+	Thread t ;
+	Myclass m;
+	
+	public Mythread(Myclass m,String n)
+	{
+		this.m = m;
+		
+		t = new Thread(this,n);
+	}
+	Thread thr()
+	{
+		return t;
+	}
+	
+	public void strt()
+	{
+		t.start();
+	}
+	public void run()
+	{
+		if(t.getName().equals("one"))
+		{	
+			m.show();
+		}
+		else
+		{
+			m.disp();	
+		}
+		
+	}
+}
